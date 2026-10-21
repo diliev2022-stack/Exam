@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Sup");
+﻿Console.WriteLine("Bye");
